@@ -85,29 +85,31 @@ Arduino • ESP32 • ESP8266 • IoT Projects • Sensors Integration
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=janaR-dev&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=janaR-dev&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=janaR-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janaR-dev&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
-
 # 🚀 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaR-dev&layout=compact&theme=tokyonight&langs_count=8"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaR-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Main%20Language-Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code%20Activity-2024-00B8FF?style=for-the-badge"/>
+</p>
+
+
+---
+# 📈 Recent Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janaR-dev&theme=tokyonight&hide_border=true" width="90%"/>
 </p>
 
 ---
-
 # 👀 Profile Views
 
 <p align="center">
