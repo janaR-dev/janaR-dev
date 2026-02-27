@@ -74,9 +74,6 @@
 
 <img src="https://skillicons.dev/icons?i=arduino" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="45"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Espressif_Logo.svg" width="45"/>
 
 </p>
 
@@ -102,8 +99,7 @@ Arduino • ESP32 • ESP8266 • IoT Projects • Sensors Integration
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janar-dev&layout=compact&theme=tokyonight"/>
-
+<img src="https://skillicons.dev/icons?i=python@#"/>
 </p>
 
 ---
