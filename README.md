@@ -1,20 +1,123 @@
-<h1 align="center">Hi 👋, I'm Jana Ramadan Salah</h1>
-<h3 align="center">A passionate software developer from Egypt</h3>
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Jana Ramadan</h1>
+<h3 align="center">🚀 Software Developer | Hardware + Software Builder | AI & Web Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="janar-dev" /> </p>
-
-- 🌱 I’m currently learning **Web-developing and Ai**
-
-- 📫 How to reach me **janaramadanstem@gmail.com**
-
-- ⚡ Fun fact **My creativity is shown in combining hardware with software**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jana salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jana salah" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/janaramadanstem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="janaramadanstem" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Electronics+%2B+Software+Builder;AI+%26+Web+Developer;IoT+and+Embedded+Systems+Explorer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+# 👩‍💻 About Me
+
+- 🌱 Currently learning **Web Development & Artificial Intelligence**
+- ⚡ Passionate about **combining hardware with software**
+- 🔌 Interested in **Electronics, IoT, and Smart Systems**
+- 🧠 I enjoy building **projects with microcontrollers and sensors**
+- 📫 Reach me at **janaramadanstem@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/jana salah">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.hackerrank.com/janaramadanstem">
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="mailto:janaramadanstem@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Languages & Tools
+
+### 💻 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,php" />
+</p>
+
+---
+
+### 🌐 Web Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,nodejs" />
+</p>
+
+---
+
+### 🤖 AI & Data Science
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
+
+</p>
+
+---
+
+### 🔌 Hardware & Embedded Systems
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="45"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Espressif_Logo.svg" width="45"/>
+
+</p>
+
+<p align="center">
+Arduino • ESP32 • ESP8266 • IoT Projects • Sensors Integration
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=janar-dev&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=janar-dev&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janar-dev&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=janar-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+✨ "Turning curiosity into real technology." ✨
+</p>
