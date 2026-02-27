@@ -21,19 +21,18 @@
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/jana salah">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.hackerrank.com/janaramadanstem">
-<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="mailto:janaramadanstem@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="https://linkedin.com/in/jana-salah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/janaramadanstem">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="mailto:janaramadanstem@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/janaR-dev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -87,9 +86,9 @@ Arduino • ESP32 • ESP8266 • IoT Projects • Sensors Integration
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=janar-dev&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=janaR-dev&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=janar-dev&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=janaR-dev&theme=tokyonight"/>
 
 </p>
 
@@ -99,7 +98,7 @@ Arduino • ESP32 • ESP8266 • IoT Projects • Sensors Integration
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janar-dev&layout=compact&theme=tokyonight&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaR-dev&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </p>
 
@@ -113,7 +112,7 @@ Arduino • ESP32 • ESP8266 • IoT Projects • Sensors Integration
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=janar-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=janaR-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
