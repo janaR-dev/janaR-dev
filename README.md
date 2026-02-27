@@ -97,6 +97,11 @@ Arduino • ESP32 • ESP8266 • IoT Projects • Sensors Integration
 
 # 🚀 Most Used Languages
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janar-dev&layout=compact&theme=tokyonight&langs_count=8"/>
+
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Main%20Language-Python-blue?style=for-the-badge&logo=python"/>
