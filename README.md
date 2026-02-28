@@ -85,19 +85,11 @@ Arduino • ESP32 • ESP8266 • IoT Projects • Sensors Integration
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janaR-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"  width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janaR-dev&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
-# 🚀 Most Used Languages
 
-  <iframe src="https://ionicabizau.github.io/github-profile-languages/api.html?janaR-dev" frameborder="0" width="600" height="600">
-    
-  </iframe>
-
-
----
 # 📈 Recent Activity
 
 <p align="center">
